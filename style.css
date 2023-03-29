@@ -48,6 +48,7 @@ img {
     background-color: #b19f97;
 }
    .btn-blue {
+     display: block;
      background-color: sandybrown;
      color:white;
      padding:10px 20px;
