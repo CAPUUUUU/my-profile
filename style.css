@@ -47,14 +47,14 @@ img {
    #aaa {
     background-color: #b19f97;
 }
-   .btn-blue {
+   .button {
      background-color: sandybrown;
      color:white;
      text-align:center;
      padding:10px 20px;
      border:3px;
 }
-   .btn-blue:hover{
+   .button:hover{
     background-color:purple;
     color:white
 }
