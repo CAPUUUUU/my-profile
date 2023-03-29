@@ -56,7 +56,8 @@ img {
      margin-left: auto;
      margin-right: auto;
      width: 200px;
-     border-radius: 30px
+     border-radius: 30px;
+     text-align: center;
 }
    .btn-blue:hover{
     background-color:purple;
